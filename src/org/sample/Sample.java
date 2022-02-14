@@ -10,5 +10,13 @@ public class Sample {
 		System.out.println("Student Id:KS0119");
 
 	}
+	
+	public static void main(String[] args) {
+		
+		Sample s = new Sample();
+		s.StudentName();
+		s.studentId();
+		
+	}
 
 }
