@@ -11,10 +11,15 @@ public class Sample {
 
 	}
 	
-	private void studentMailId() {
-		System.out.println("sinamika99@gmail.com");
+	private void studentAddress() {
+		System.out.println("Student Address:Chennai");
 
 	}
+
+	private void studentMailId() {
+		System.out.println("sinamika99@gmail.com");
+	}
+	
 	
 	public static void main(String[] args) {
 		
