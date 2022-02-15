@@ -11,6 +11,11 @@ public class Sample {
 
 	}
 	
+	private void studentMailId() {
+		System.out.println("sinamika99@gmail.com");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		Sample s = new Sample();
