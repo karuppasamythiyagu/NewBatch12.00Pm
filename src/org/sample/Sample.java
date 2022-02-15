@@ -11,6 +11,11 @@ public class Sample {
 
 	}
 	
+	private void studentAddress() {
+		System.out.println("Student Address:Chennai");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		Sample s = new Sample();
